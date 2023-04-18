@@ -71,9 +71,8 @@ subs {
             attachments {
                 include(false)
             }
-            chapters {
-                include(false)
-            }
+            
+            includeChapters(false)
         }
 
         from(merge.item()) {
