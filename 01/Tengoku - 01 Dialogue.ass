@@ -16,8 +16,7 @@ Video File: ../raws/Heavenly Delusion S01E01 1080p WEB H.264 AAC -Tsundere-Raws 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 364
-Active Line: 366
+Active Line: 3
 Video Position: 32265
 
 [V4+ Styles]
@@ -34,10 +33,10 @@ Style: Main - Top,GilverZ-FOT-UDMarugo_Small Pr6N,86,&H00FFFFFF,&H000000FF,&H003
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Mở đầu}
-Comment: 0,0:02:01.89,0:02:01.93,Main,chptr,0,0,0,,{Phần A}
-Comment: 0,0:06:12.10,0:06:12.14,Main,chptr,0,0,0,,{Phần B}
-Comment: 0,0:22:20.99,0:22:21.03,Main,chptr,0,0,0,,{Credit}
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{intro}
+Comment: 0,0:02:01.89,0:02:01.93,Main,chptr,0,0,0,,{part A}
+Comment: 0,0:06:12.10,0:06:12.14,Main,chptr,0,0,0,,{part B}
+Comment: 0,0:22:20.99,0:22:21.03,Main,chptr,0,0,0,,{credit}
 Dialogue: 9,0:15:29.51,0:15:32.77,Chú thích,,0,0,0,,{\fad(300,300)}*Edo: tên gọi cũ của Tokyo
 Dialogue: 12,0:00:13.03,0:00:15.43,Main,,0,0,0,,Tarao! Cậu ăn chút cà chua không?
 Dialogue: 12,0:00:15.43,0:00:16.83,Main,,0,0,0,,Cảm ơn cậu nhé
