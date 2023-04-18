@@ -38,7 +38,7 @@ subs {
         includeProjectGarbage(false)
 
         scriptInfo {
-                title = "GSGA"
+                title = "GSGA - S&M Fansub"
                 scaledBorderAndShadow = true
         }
 
