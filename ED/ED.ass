@@ -16,8 +16,9 @@ Video File: ED.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 9
-Video Position: 296
+Scroll Position: 42
+Active Line: 57
+Video Position: 1404
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,14 +84,14 @@ Dialogue: 1,0:00:57.56,0:00:58.25,ED,ed.romaji,0,0,45,break.line,{\an8\blur1\bor
 Dialogue: 0,0:00:57.56,0:00:58.25,ED,ed.romaji,0,0,45,break.line,{\an8\blur4\bord3\3c&H0E6FF2&\3a&H40&}Doushite nayande narihibiku sono koe ni
 Dialogue: 1,0:00:57.56,0:00:58.25,ED,ed.trans,0,0,45,break.line,{\an2\blur1\bord0}Cớ sao bạn lại để những âm thanh vang vọng đó làm cho khó chịu?
 Dialogue: 0,0:00:57.56,0:00:58.25,ED,ed.trans,0,0,45,break.line,{\an2\blur4\bord3\3c&H0E6FF2&\3a&H40&}Cớ sao bạn lại để những âm thanh vang vọng đó làm cho khó chịu?
-Dialogue: 1,0:00:58.25,0:01:03.07,ED,ed.romaji,0,0,45,break.line,{\an8\blur1\bord0}Doushite nayande narihibiku sono koe ni
-Dialogue: 0,0:00:58.25,0:01:03.07,ED,ed.romaji,0,0,45,break.line,{\an8\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Doushite nayande narihibiku sono koe ni
-Dialogue: 1,0:00:58.25,0:01:03.07,ED,ed.trans,0,0,25,break.line,{\an2\blur1\bord0}Cớ sao bạn lại để những âm thanh vang vọng đó làm cho khó chịu?
-Dialogue: 0,0:00:58.25,0:01:03.07,ED,ed.trans,0,0,25,break.line,{\an2\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Cớ sao bạn lại để những âm thanh vang vọng đó làm cho khó chịu?
-Dialogue: 1,0:01:03.07,0:01:06.85,ED,ed.romaji,0,0,45,,{\an8\blur1\bord0}Kagayaku hiiro no hikari
-Dialogue: 0,0:01:03.07,0:01:06.85,ED,ed.romaji,0,0,45,,{\an8\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Kagayaku hiiro no hikari
-Dialogue: 1,0:01:03.07,0:01:06.85,ED,ed.trans,0,0,25,,{\an2\blur1\bord0}Ánh sáng rực đỏ ấy thật lấp lánh
-Dialogue: 0,0:01:03.07,0:01:06.85,ED,ed.trans,0,0,25,,{\an2\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Ánh sáng rực đỏ ấy thật lấp lánh
+Dialogue: 1,0:00:58.25,0:01:02.83,ED,ed.romaji,0,0,45,break.line,{\an8\blur1\bord0}Doushite nayande narihibiku sono koe ni
+Dialogue: 0,0:00:58.25,0:01:02.83,ED,ed.romaji,0,0,45,break.line,{\an8\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Doushite nayande narihibiku sono koe ni
+Dialogue: 1,0:00:58.25,0:01:02.83,ED,ed.trans,0,0,45,break.line,{\an2\blur1\bord0}Cớ sao bạn lại để những âm thanh vang vọng đó làm cho khó chịu?
+Dialogue: 0,0:00:58.25,0:01:02.83,ED,ed.trans,0,0,45,break.line,{\an2\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Cớ sao bạn lại để những âm thanh vang vọng đó làm cho khó chịu?
+Dialogue: 1,0:01:02.83,0:01:06.85,ED,ed.romaji,0,0,45,,{\an8\blur1\bord0}Kagayaku hiiro no hikari
+Dialogue: 0,0:01:02.83,0:01:06.85,ED,ed.romaji,0,0,45,,{\an8\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Kagayaku hiiro no hikari
+Dialogue: 1,0:01:02.83,0:01:06.85,ED,ed.trans,0,0,25,,{\an2\blur1\bord0}Ánh sáng rực đỏ ấy thật lấp lánh
+Dialogue: 0,0:01:02.83,0:01:06.85,ED,ed.trans,0,0,25,,{\an2\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Ánh sáng rực đỏ ấy thật lấp lánh
 Dialogue: 1,0:01:06.85,0:01:13.92,ED,ed.romaji,0,0,45,,{\an8\blur1\bord0}Doushite tazunete yakusoku wo hatasukara
 Dialogue: 0,0:01:06.85,0:01:13.92,ED,ed.romaji,0,0,45,,{\an8\blur4\bord3\3c&H7C55DE&\3a&H40&\c&H7C55DE&}Doushite tazunete yakusoku wo hatasukara
 Dialogue: 1,0:01:06.85,0:01:13.92,ED,ed.trans,0,0,25,,{\an2\blur1\bord0}Cớ sao bạn lại hỏi về nó, khi tôi nhất định sẽ giữ trọn lời hứa ấy?
